@@ -25,7 +25,7 @@
        
  🧰 Features 
  
-       ✅ User registration with extended fields: Name, Surname,    Gender
+       ✅ User registration with extended fields: Name, Surname,Gender
        
        ✅ Login system with ASP.NET Identity
        
@@ -45,13 +45,17 @@
 🖼️ Screenshots Replace the image links below with actual files under/screenshots:
 
 Register:
-[![Register](https://private-user-images.githubusercontent.com/72446830/459937344-a4472cc7-842b-4c50-8df7-ba3c1021f76a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEwMjg1MjQsIm5iZiI6MTc1MTAyODIyNCwicGF0aCI6Ii83MjQ0NjgzMC80NTk5MzczNDQtYTQ0NzJjYzctODQyYi00YzUwLThkZjctYmEzYzEwMjFmNzZhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI3VDEyNDM0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwN2E2YzYzMzc2OGY4MjJiMTc5M2VlNTI4ODVhNjlhZTEyZmMzYThlMGM3NmIyODI1ODFlMDAxOGY1Yjk1MTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.P2yZVR5eQWDI6h3l_-u7pOyUNJVG-4Q82ptg8uTJlPI)](https://private-user-images.githubusercontent.com/72446830/459937344-a4472cc7-842b-4c50-8df7-ba3c1021f76a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEwMjg1MjQsIm5iZiI6MTc1MTAyODIyNCwicGF0aCI6Ii83MjQ0NjgzMC80NTk5MzczNDQtYTQ0NzJjYzctODQyYi00YzUwLThkZjctYmEzYzEwMjFmNzZhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI3VDEyNDM0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwN2E2YzYzMzc2OGY4MjJiMTc5M2VlNTI4ODVhNjlhZTEyZmMzYThlMGM3NmIyODI1ODFlMDAxOGY1Yjk1MTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.P2yZVR5eQWDI6h3l_-u7pOyUNJVG-4Q82ptg8uTJlPI)   
+
+![Register](https://github.com/user-attachments/assets/6dfecfd3-b406-4708-9c04-954dce7898fe)
 
 Login:
-[![Login](https://private-user-images.githubusercontent.com/72446830/459937477-9ffdc018-019d-4561-af62-4a7731ac2335.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEwMjg1MjQsIm5iZiI6MTc1MTAyODIyNCwicGF0aCI6Ii83MjQ0NjgzMC80NTk5Mzc0NzctOWZmZGMwMTgtMDE5ZC00NTYxLWFmNjItNGE3NzMxYWMyMzM1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI3VDEyNDM0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxYWU5MGE3ZmU4OWYyNTY2OGZkMmQ1MmE5YmZkZmQwM2EzYmI5YzBhYmIwYjY5MWRhMmY0Nzg2MjZhODIxYTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pOSWo1EOoFvLK32jfV_THYoulvka_KsNzJ5hqdhwLU0)](https://private-user-images.githubusercontent.com/72446830/459937477-9ffdc018-019d-4561-af62-4a7731ac2335.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEwMjg1MjQsIm5iZiI6MTc1MTAyODIyNCwicGF0aCI6Ii83MjQ0NjgzMC80NTk5Mzc0NzctOWZmZGMwMTgtMDE5ZC00NTYxLWFmNjItNGE3NzMxYWMyMzM1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI3VDEyNDM0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxYWU5MGE3ZmU4OWYyNTY2OGZkMmQ1MmE5YmZkZmQwM2EzYmI5YzBhYmIwYjY5MWRhMmY0Nzg2MjZhODIxYTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pOSWo1EOoFvLK32jfV_THYoulvka_KsNzJ5hqdhwLU0) 
+
+![Login](https://github.com/user-attachments/assets/058411ce-6872-418c-ab92-c30856a98f82)
+
 
 Product:
-[![Product](https://private-user-images.githubusercontent.com/72446830/459937573-638ef0fd-641e-4788-ad0a-a3f1529af735.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEwMjg1MjQsIm5iZiI6MTc1MTAyODIyNCwicGF0aCI6Ii83MjQ0NjgzMC80NTk5Mzc1NzMtNjM4ZWYwZmQtNjQxZS00Nzg4LWFkMGEtYTNmMTUyOWFmNzM1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI3VDEyNDM0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVjYTFlN2E0MWJkYmNjNjViZWMxNjFmMDA5MGRiOWU0ZDIzMGVmNDY5YmIwMGQ1NTVhZjViZTczNjY5ZTljODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.iKemBpDGcUHcnX9W07Ez0CMKRHWqR_luHx1z4tDmvWc)](https://private-user-images.githubusercontent.com/72446830/459937573-638ef0fd-641e-4788-ad0a-a3f1529af735.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEwMjg1MjQsIm5iZiI6MTc1MTAyODIyNCwicGF0aCI6Ii83MjQ0NjgzMC80NTk5Mzc1NzMtNjM4ZWYwZmQtNjQxZS00Nzg4LWFkMGEtYTNmMTUyOWFmNzM1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI3VDEyNDM0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVjYTFlN2E0MWJkYmNjNjViZWMxNjFmMDA5MGRiOWU0ZDIzMGVmNDY5YmIwMGQ1NTVhZjViZTczNjY5ZTljODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.iKemBpDGcUHcnX9W07Ez0CMKRHWqR_luHx1z4tDmvWc)
+
+![Product](https://github.com/user-attachments/assets/1262f882-cc17-4f7a-99a3-1a78460e2522)
 
 
 
@@ -76,10 +80,10 @@ Product:
        
    🔐 Authentication 
        
- Uses ASP.NET Core Identity with custom AppUser and    AppRoleLogin path configured as:
+ Uses ASP.NET Core Identity with custom AppUser and AppRoleLogin path configured as:
  
 
-      builder.Services.ConfigureApplicationCookie(options => {    options.LoginPath = "/Login/Index"; });
+      builder.Services.ConfigureApplicationCookie(options => {options.LoginPath = "/Login/Index"; });
        
        
  ✅ Sample Test User You can manually add a user or seed with the 
@@ -88,7 +92,7 @@ Product:
        Username: testuser
        Password: Test123!
 
-Make sure it matches the password rules in your    CustomIdentityValidator.
+Make sure it matches the password rules in your CustomIdentityValidator.
        
 🧱 Architectural 
 
