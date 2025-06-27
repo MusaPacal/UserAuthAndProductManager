@@ -1,0 +1,34 @@
+﻿@model EntityLayer.Concrete.Product
+@{
+    ViewData["Title"] = "UpdateProduct";
+    Layout = "~/Views/Shared/_UILayout.cshtml";
+}
+
+<h1>Ürün Güncelleme</h1>
+
+<form method="post">
+    @Html.Label("Ürün No")
+    @Html.TextBoxFor(x => x.ProductID, new { @class = "form-control", @readonly = "readonly" })
+    <br />
+    <br />
+    @Html.Label("Ürün Adı")
+    @Html.TextBoxFor(x => x.ProductName, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.ProductName)
+    <br />
+    <br />
+    @Html.Label("Ürünün Fiyatı")
+    @Html.TextBoxFor(x => x.ProductPrice, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.ProductPrice)
+    <br />
+    <br />
+    @Html.Label("Ürün Stok Sayısı")
+    @Html.TextBoxFor(x => x.ProductStock, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.ProductStock)
+    <br />
+    <br />
+    @Html.Label("Ürün Kategorisi")
+    @Html.DropDownListFor(x=>x.CategoryID,(List<SelectListItem>)ViewBag.c,"Kategoriyi Seçiniz...",new {@class="form-control"})
+    <br />
+    <br />
+    <button class="btn btn-outline-success">Ürünü Güncelle</button>
+</form>
