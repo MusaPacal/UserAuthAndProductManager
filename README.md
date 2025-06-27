@@ -23,14 +23,24 @@
 
 ├──    Models // ViewModels for forms (Login, Register)
        
-       🧰 Features ✅ User registration with extended fields: Name, Surname,    Gender
+ 🧰 Features 
+ 
+       ✅ User registration with extended fields: Name, Surname,    Gender
+       
        ✅ Login system with ASP.NET Identity
+       
        ✅ Custom Identity Validator (password rules)
+       
        ✅ Cookie-based login system with redirection
+       
        ✅ Full CRUD for Products, Categories, and Customers
+       
        ✅ Role management with AppRole
+       
        ✅ FluentValidation-based form validation
+       
        ✅ Solid OOP and N-Tier Architecture design
+       
       
 🖼️ Screenshots Replace the image links below with actual files under/screenshots:
 
